@@ -10,3 +10,4 @@ https://www.kaggle.com/amanulla/selfie-data-images </br>
 
 ## Some Important Links
 https://link.springer.com/article/10.1007/s11042-020-09425-0
+https://www.tensorflow.org/tutorials/images/segmentation
